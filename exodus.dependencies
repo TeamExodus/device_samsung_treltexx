@@ -1,0 +1,10 @@
+[
+    {
+        "repository": "device_samsung_trelte-common",
+        "target_path": "device/samsung/trelte-common"
+    },
+    {
+        "repository": "vendor_samsung_treltexx",
+        "target_path": "vendor/samsung/treltexx"
+    }
+]
